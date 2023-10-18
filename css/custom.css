@@ -3,8 +3,10 @@ body {
 }
 
 header {
-    background-image: url(/img/coffee-beans-1291656_1920.jpg);
-    color: white;
+    background-image: url(/img/coffee-beans-1291656_768.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #bdad85;
 
 }
 
@@ -23,5 +25,5 @@ footer {
 
 .nav-link {
     background-color: #5c2323;
-    color:white;
+    color:#bdad85;
 }
